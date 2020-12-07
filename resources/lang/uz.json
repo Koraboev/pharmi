@@ -1,0 +1,71 @@
+
+{
+  "manzil": "Toshkent sh., Oybek ko‘chasi, 45",
+
+  "home_menu": "Bosh sahifa",
+  "institut" : "Institut",
+  "new": "Yangiliklar",
+      "ins_yangiliklari": "Institut yangiliklari",
+      "xori_yangiliklari": "Xorijiy yangiliklar",
+      "barcha_elonlar": "Barcha elonlar",
+      "tadbirlar": "Barcha tadbirlar",
+      "ilm_seminarlar": "Ilmiy seminarlar",
+
+  "faoliyat": "Faoliyat",
+  "abuturentlar": "Abituriyent",
+  "talabalar": "Talabalar",
+  "hujjatlar": "Hujjatlar",
+  "contact": "Aloqa",
+
+        "Farmatsiya1": "Farmatsiya",
+        "Farmatsiya2": "Toshkеnt Farmatsеvtika instituti 1937-yilda Toshkеnt Tibbiyot instituti bazasida tashkil etildi. Shu yili institutga 50 nafar...",
+        "davomini_oqing": "Davomini O'qish",
+        "sanoat1": "Sanoat-farmatsiya",
+        "sanoat2": "Sanoat farmatsiyasi fakulteti tarkibida “Sanoat farmatsiyasi”, “Biotexnologiya” va 2015-2016 o‘quv yilidan boshlab yangi...",
+        "malaka1": "Malaka oshirish",
+        "malaka2": "O‘zbekiston SSR Ministrlar Sovetining 1967-yil 6-maydagi 211-sonli qaroriga binoan 1969-yil mart oyidan boshlab, Toshkent....",
+        "Magistrantura1": "Magistrantura",
+        "Magistrantura2": "Bo‘lim o‘z faoliyatini O‘zbekiston Respublikasi Prezidentining 2017 yil 20-apreldagi “Oliy ta’lim tizimini yanada rivojlantirish...",
+
+        "hamkorla1": "O‘zbekiston Respublikasi Fanlar Akademiyasi",
+        "hamkorla2": "O’zbekiston Respublikasi Sog’liqni saqlash vazirligi",
+        "hamkorla3": "«Dori-Darmon» Aksiyadorlik Kompaniyasi",
+        "hamkorla4": "ZiyoNET jamoat axborot ta’lim tarmog‘i",
+        "hamkorla5": "Dori vositalari va tibbiy texnika sifatini ",
+        "hamkorla6": "O’zbekiston Respublikasi oliy va o’rta ",
+
+        "reklama1": "Toshkent farmatsevtika instituti",
+        "reklama2": "Bugungi kunda institutda farmatsеvtlarning malakasini oshirish fakultetlari, kasbiy ta’lim, farmatsiya, sanoat- farmatsiya va Sankt-Peterburg davlat kimyo-farmatsevtika instituti bilan ochilgan qo’shma fakultetlar faoliyat yuritmoqda.",
+        "reklama3": "Biz Bilan Bog'laning",
+
+        "slider2": "INSTITUT HAQIDA",
+        "slider3": "O`zbеkiston Rеspublikasi Sog`liqni saqlash xalq komissariatining 155-son buyrug`i bilan 1937-yil 16-iyulda tashkil qilingan",
+
+        "footer": "Veb-saytdagi ma'lumotlardan foydalanilganda, manbaga havola qilish majburiy.",
+
+        "ong1": "Ishtimoiy Tarmoqlar",
+        "ong2": "Ko'p Foydalanilganlar",
+
+        "nteraktiv1": "INTERAKTIV XIZMATLAR",
+        "nteraktiv2": "Korporativ tarmoq qurilmalari va dasturi mahsulotlar.",
+        "nteraktiv3": "O‘quv jarayonini tashkil etadigan avtomatlashtirilgan axborot tizimlarining joriy etish holati va qisqacha namunalar",
+
+        "contact1": "Taklif va mulohazalarizi jonating",
+        "contact2": "Xabarni jo'natish",
+        "contact3": "Toshkent farmatsevtika instituti",
+        "contact3": "O`z faoliyati davri mobaynida institut farmatsеvtik ta’limning yangi konsеpsiyasini bosqichma-bosqich amalga oshirish bilan bir qatorda farmatsiyaning dolzarb muammolari bo`yicha ham maqsadga yo`naltirilgan tadqiqotlar olib boryapti.",
+        "contact4": "TFI REKTORI VIRTUAL QABULXONASI",
+
+        "dekan": "Fakultet Dekani",
+        "dekanlar": "Fakultet dekanlari shajarasi",
+        "havola": "Qisqa tarjimaiy havola",
+        "pochta": "E-pochta",
+        "nomer": "Telefon nomer",
+        "idu": "Ilmiy daraja-unvon",
+        "vaqt": "Qabul vaqti",
+        "zamdekan": "Dekan o'rinbosari",
+        "fakultet_tarixi": "Farmatsiya fakulteti tarixiga nazar",
+        "fakultet_yonalish1": "Farmatsiya fakultetida",
+        "fakultet_yonalish2": "ta yo’nalish mavjud bo’lib, ular quyidagilardan tashkil topgan:",
+        "fakultet_kafedra": "Fakultet kafedralari"
+}
